@@ -1,0 +1,48 @@
+{
+"projects": [
+    
+    {
+      "id": 1,
+      "title": "Portfolio Website",
+      "image": "portfolio.png",
+      "description": "A personal portfolio website showcasing my projects and skills.",
+      "skills": ["HTML", "CSS", "JavaScript", "React"],
+      "time": "2 months"
+    },
+    {
+      "id": 2,
+      "title": "E-commerce Platform",
+      "image": "ecommerce.jpg",
+      "description": "An online store for selling various products with features like product search, cart, and checkout.",
+      "skills": ["React", "Node.js", "Express", "MongoDB"],
+      "time": "6 months"
+    },
+    {
+      "id": 3,
+      "title": "Mobile App",
+      "image": "mobile-app.png",
+      "description": "A mobile application for managing tasks and scheduling events.",
+      "skills": ["React Native", "Firebase", "Redux"],
+      "time": "4 months"
+    },
+    {
+      "id": 4,
+      "title": "Data Visualization Dashboard",
+      "image": "dashboard.png",
+      "description": "A dashboard for visualizing data trends and analytics.",
+      "skills": ["D3.js", "Python", "Flask", "SQL"],
+      "time": "3 months"
+    },
+    {
+      "id": 5,
+      "title": "Game Development",
+      "image": "game.jpg",
+      "description": "A 2D platformer game with multiple levels and character customization.",
+      "skills": ["Unity", "C#", "Photoshop"],
+      "time": "8 months"
+    }
+]
+
+}
+  
+  

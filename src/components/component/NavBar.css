@@ -1,0 +1,46 @@
+.NavBar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+    /* font-family: 'Sans Serif'; */
+    background-color: #333; /* This sets the background color to dark grey */
+  }
+  
+  .logo h1 {
+    margin: 0;
+    color: white; /* This sets the color of the logo text to white */
+  }
+  
+  .NavLinks ul {
+    list-style-type: none;
+    display: flex;
+    gap: 20px;
+  }
+  
+  .NavLinks ul li {
+    cursor: pointer;
+    padding: 5px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .NavLinks ul li:hover {
+    background-color: #ddd;
+  }
+  
+  .NavLinks ul li a {
+    text-decoration: none;
+    color: white; /* This sets the color of the links to white */
+    font-size: 18px;
+    transition: color 0.3s ease;
+  }
+  
+  .NavLinks ul li a:hover {
+    color: #ff6347; /* Change this to the color you want for hover effect */
+  }
+  
+  .NavLinks ul li.active {
+    border-bottom: 2px solid rgb(255, 255, 255); /* Change this to the color you want for active links */
+  }
+  
